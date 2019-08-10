@@ -1,0 +1,16 @@
+{
+  "name": "twitterstarter",
+  "version": "1.0.0",
+  "description": "twitter boiler plate",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Scott Miller",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "twitter": "^1.7.1"
+  }
+}
