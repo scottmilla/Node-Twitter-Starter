@@ -14,7 +14,7 @@ Next, when your in this repo, run the following command <br> npm i express twitt
 This will install the dependencies needed to run this example. <br><br>
 
 
-Next, copy your keys into their corresponding variables in the config.env file. <br><br>
+Next, copy your api keys from twitter into their corresponding variables in the config.env file. <br><br>
 
 
 Finally, to run the app and test it, run the following command <br>
