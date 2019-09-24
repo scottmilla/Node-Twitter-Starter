@@ -5,7 +5,7 @@ This repo is a simple NodeJS application that uses twitter's javascript api. It 
 To get started, make sure you have Node downloaded. If you don't, go to https://nodejs.org/en/download/ <br><br>
 
 
-Then, you have to create a twitter developer account if you don't have one already. Go here https://developer.twitter.com/, and follow the steps until you can create an account, then go to https://developer.twitter.com/en/account/environments and set up a dev environment, then finally grab your api keys (you'll need consumer key, consumer secret, access key, and access secret). You'll need these later. <br><br>
+Then, you have to create a twitter developer account if you don't have one already. Go here https://developer.twitter.com/, and follow the steps until you can create an account, then go to https://developer.twitter.com/en/account/environments and set up a dev environment, then finally grab your api keys (you'll need consumer key, consumer secret, access key, and access secret). These keys are used to make requests for data. <br><br>
 
 
 Next, when your in this repo, run the following command <br> npm i express twitter dotenv <br><br>
